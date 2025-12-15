@@ -1,0 +1,41 @@
+{"level":"info","message":"Real-time service initialized","service":"expense-management-api","timestamp":"2025-10-04T09:22:19.199Z"}
+{"level":"info","message":"User connected: FdmAUUFCf1KXya3FAAAB","service":"expense-management-api","timestamp":"2025-10-04T10:20:45.440Z"}
+{"level":"info","message":"User undefined joined company 68e0f4fd8a762c239d3e3a1e","service":"expense-management-api","timestamp":"2025-10-04T10:20:45.490Z"}
+{"level":"info","message":"User undefined disconnected from company 68e0f4fd8a762c239d3e3a1e","service":"expense-management-api","timestamp":"2025-10-04T10:21:41.567Z"}
+{"level":"info","message":"User connected: YTE38NKFAvUWK0fcAAAD","service":"expense-management-api","timestamp":"2025-10-04T10:21:50.495Z"}
+{"level":"info","message":"User undefined joined company 68e0f3508a762c239d3e3a16","service":"expense-management-api","timestamp":"2025-10-04T10:21:50.501Z"}
+{"level":"info","message":"Real-time service initialized","service":"expense-management-api","timestamp":"2025-10-04T10:26:56.985Z"}
+{"level":"info","message":"User connected: 3zlqoJduQKNvMYozAAAB","service":"expense-management-api","timestamp":"2025-10-04T10:26:57.588Z"}
+{"level":"info","message":"Real-time service initialized","service":"expense-management-api","timestamp":"2025-10-04T10:28:06.905Z"}
+{"level":"info","message":"User connected: my6Pf9rLEi6UnyquAAAB","service":"expense-management-api","timestamp":"2025-10-04T10:28:07.367Z"}
+{"level":"info","message":"Real-time service initialized","service":"expense-management-api","timestamp":"2025-10-04T10:58:24.739Z"}
+{"level":"info","message":"User connected: Pe8fc4sHVE416iiJAAAB","service":"expense-management-api","timestamp":"2025-10-04T11:02:59.443Z"}
+{"level":"info","message":"User undefined joined company 68e0fee1db4e7950b5e4b2c0","service":"expense-management-api","timestamp":"2025-10-04T11:02:59.457Z"}
+{"level":"info","message":"User undefined disconnected from company 68e0fee1db4e7950b5e4b2c0","service":"expense-management-api","timestamp":"2025-10-04T11:03:34.524Z"}
+{"level":"info","message":"User connected: sY1WLnhSjw5o17umAAAD","service":"expense-management-api","timestamp":"2025-10-04T11:04:46.887Z"}
+{"level":"info","message":"User undefined joined company 68e0fee1db4e7950b5e4b2c0","service":"expense-management-api","timestamp":"2025-10-04T11:04:46.889Z"}
+{"level":"info","message":"Real-time service initialized","service":"expense-management-api","timestamp":"2025-10-04T11:06:19.166Z"}
+{"level":"info","message":"User connected: HNcU0b2_JSdaBcAyAAAC","service":"expense-management-api","timestamp":"2025-10-04T11:07:09.919Z"}
+{"level":"info","message":"User undefined joined company 68e0f3508a762c239d3e3a16","service":"expense-management-api","timestamp":"2025-10-04T11:07:09.933Z"}
+{"level":"info","message":"User undefined disconnected from company 68e0f3508a762c239d3e3a16","service":"expense-management-api","timestamp":"2025-10-04T11:07:18.302Z"}
+{"level":"info","message":"User connected: EKdyLf6doU4MZgqMAAAE","service":"expense-management-api","timestamp":"2025-10-04T11:07:18.379Z"}
+{"level":"info","message":"User undefined joined company 68e0fee1db4e7950b5e4b2c0","service":"expense-management-api","timestamp":"2025-10-04T11:07:18.390Z"}
+{"level":"info","message":"User undefined disconnected from company 68e0fee1db4e7950b5e4b2c0","service":"expense-management-api","timestamp":"2025-10-04T11:09:54.865Z"}
+{"level":"info","message":"User connected: OD2ycPgtw1LyuPk7AAAG","service":"expense-management-api","timestamp":"2025-10-04T11:10:40.459Z"}
+{"level":"info","message":"User undefined joined company 68e100b0e726ee2ee7de26d5","service":"expense-management-api","timestamp":"2025-10-04T11:10:40.502Z"}
+{"level":"info","message":"User undefined disconnected from company 68e100b0e726ee2ee7de26d5","service":"expense-management-api","timestamp":"2025-10-04T11:13:12.526Z"}
+{"level":"info","message":"User connected: COSRw0QL92lfHvMbAAAI","service":"expense-management-api","timestamp":"2025-10-04T11:14:27.880Z"}
+{"level":"info","message":"User undefined joined company 68e10193e726ee2ee7de2711","service":"expense-management-api","timestamp":"2025-10-04T11:14:27.886Z"}
+{"level":"info","message":"User undefined disconnected from company 68e10193e726ee2ee7de2711","service":"expense-management-api","timestamp":"2025-10-04T11:16:33.829Z"}
+{"level":"info","message":"User connected: bxLFtJJD221u_VP6AAAK","service":"expense-management-api","timestamp":"2025-10-04T11:18:34.076Z"}
+{"level":"info","message":"User undefined joined company 68e10193e726ee2ee7de2711","service":"expense-management-api","timestamp":"2025-10-04T11:18:34.081Z"}
+{"level":"info","message":"User undefined disconnected from company 68e10193e726ee2ee7de2711","service":"expense-management-api","timestamp":"2025-10-04T11:19:03.025Z"}
+{"level":"info","message":"User connected: PnJe2qm3FJ8Ev1-hAAAM","service":"expense-management-api","timestamp":"2025-10-04T11:28:11.062Z"}
+{"level":"info","message":"User undefined joined company 68e0fee1db4e7950b5e4b2c0","service":"expense-management-api","timestamp":"2025-10-04T11:28:11.074Z"}
+{"level":"info","message":"User connected: hKlqzYwfKJMjaNqAAAAO","service":"expense-management-api","timestamp":"2025-10-04T11:31:19.461Z"}
+{"level":"info","message":"User undefined joined company 68e0fb90cd6940075442bfef","service":"expense-management-api","timestamp":"2025-10-04T11:31:19.466Z"}
+{"level":"info","message":"User undefined disconnected from company 68e0fb90cd6940075442bfef","service":"expense-management-api","timestamp":"2025-10-04T11:37:28.525Z"}
+{"level":"info","message":"User connected: 1P16vXDwlyiBmm08AAAQ","service":"expense-management-api","timestamp":"2025-10-04T11:38:03.091Z"}
+{"level":"info","message":"User undefined joined company 68e0fb90cd6940075442bfef","service":"expense-management-api","timestamp":"2025-10-04T11:38:03.151Z"}
+{"level":"info","message":"User undefined disconnected from company 68e0fb90cd6940075442bfef","service":"expense-management-api","timestamp":"2025-10-04T11:56:43.301Z"}
+{"level":"info","message":"User undefined disconnected from company 68e0fee1db4e7950b5e4b2c0","service":"expense-management-api","timestamp":"2025-10-04T11:56:43.555Z"}
