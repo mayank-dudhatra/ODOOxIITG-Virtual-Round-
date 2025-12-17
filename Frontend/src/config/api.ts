@@ -6,7 +6,7 @@ const getApiBaseUrl = () => {
   }
   
   // Production - use your Render backend
-  return 'https://odooxiitg-1.onrender.com/api';
+  return 'https://odooxiitg-virtual-round.onrender.com/';
 };
 
 export const API_BASE_URL = getApiBaseUrl();
