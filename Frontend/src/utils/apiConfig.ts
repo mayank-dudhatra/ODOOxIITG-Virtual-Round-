@@ -9,7 +9,8 @@ export const getApiUrl = () => {
   }
   
   // Production - your deployed backend
-  return 'https://odooxiitg-1.onrender.com/api';
+  // Production - your deployed backend
+  return 'https://odooxiitg-virtual-round.onrender.com/api';
 };
 
 export const API_BASE_URL = getApiUrl();
